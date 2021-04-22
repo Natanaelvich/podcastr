@@ -67,6 +67,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
               <th />
               <th>Podcast</th>
               <th>Integrantes</th>
+              <th>Data</th>
               <th>Duração</th>
               <th />
             </tr>
@@ -81,7 +82,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                     height={120}
                     src={episode.thumbnail}
                     alt={episode.title}
-                    objectFit="cover"
+                    objectFit="contain"
                   />
                 </td>
                 <td>
