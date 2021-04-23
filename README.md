@@ -1,4 +1,3 @@
-
 <h1 align='center'> PODCASTR 🚀</h1>
 
 ### Podcaster made with nextjs
@@ -8,7 +7,7 @@
 ## ScreenShots
 
 ![2021-04-21_23-20](https://user-images.githubusercontent.com/52014318/115648388-b8737f00-a2fb-11eb-8a04-06e940c070f0.png)
-![2021-04-21_23-20_1](https://user-images.githubusercontent.com/52014318/115648391-b90c1580-a2fb-11eb-85fb-898094ee715e.png)
+![2021-04-22_21-27](https://user-images.githubusercontent.com/52014318/115800728-95a3a200-a3b1-11eb-9ba0-ed588a41645a.png)
 
 ## Install
 
